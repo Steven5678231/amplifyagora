@@ -200,3 +200,6 @@ app.listen(3000, function() {
 // this file
 module.exports = app;
 ```
+
+
+1. Where to find the response of the API
